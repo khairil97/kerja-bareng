@@ -1,1 +1,4 @@
-mengajarkan commit di git dan github
+
+Cara Install Nano Text Editor
+
+Perlu diketahui, proses install Nano tergantung pada sistem operasi yang Anda gunakan. Beberapa sistem operasi, seperti macOS atau Linux distros, sudah menyediakan Nano text editor bawaan.
